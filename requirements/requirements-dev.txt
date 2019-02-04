@@ -1,4 +1,4 @@
-setuptools < 37; python_version == '2.6'
+setuptools <41; python_version == '2.6'
 flake8
 mock
 pbr
